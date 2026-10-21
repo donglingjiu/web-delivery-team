@@ -13,7 +13,7 @@ description: 端到端网站交付总编排。何时使用：要求"做一个网
 |---|---|
 | 产品技能库 | https://github.com/donglingjiu/product-expert-team （skills/<名称>/SKILL.md） |
 | 前端技能 | https://github.com/donglingjiu/frontend-builder |
-| 全栈开发流程库 | https://github.com/donglingjiu/autodev-generic （SKILL.md、templates/、references/coding-standards/） |
+| 全栈开发流程库 | https://github.com/donglingjiu/AutoDev （SKILL.md、templates/、references/coding-standards/） |
 | 本库指南 | references/ 下 ui-ux-brief.md、backend-guide.md、qa-checklist.md、deploy-options.md |
 
 ## 调度表

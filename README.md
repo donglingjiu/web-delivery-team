@@ -21,7 +21,7 @@ novel-writing-studio 独立于本流水线（小说创作向，自成体系）�
 | 仓库 | 角色 |
 |---|---|
 | https://github.com/donglingjiu/product-expert-team | 产品分析技能库（6 agents + 53 skills） |
-| https://github.com/donglingjiu/autodev-generic | 全栈开发流程与编码规范 |
+| https://github.com/donglingjiu/AutoDev | 全栈开发流程与编码规范 |
 | https://github.com/donglingjiu/frontend-builder | 前端实现与审美 |
 | https://github.com/donglingjiu/web-delivery-team | 本库：总编排 + 设计/后端/QA/部署四份指南 |
 
@@ -29,7 +29,7 @@ novel-writing-studio 独立于本流水线（小说创作向，自成体系）�
 
 新会话发送：
 
-> 打开 https://github.com/donglingjiu/web-delivery-team ，读取 SKILL.md 与 references/ 下四个指南。之后你作为 web-delivery-director 总编排待命：我说"做一个网站"时，按调度表分阶段执行，每阶段过阶段门；产品阶段读 https://github.com/donglingjiu/product-expert-team ，前端阶段读 https://github.com/donglingjiu/frontend-builder ，全栈阶段读 https://github.com/donglingjiu/autodev-generic ，需要哪个现读哪个。回复：web-delivery-director 已就绪。
+> 打开 https://github.com/donglingjiu/web-delivery-team ，读取 SKILL.md 与 references/ 下四个指南。之后你作为 web-delivery-director 总编排待命：我说"做一个网站"时，按调度表分阶段执行，每阶段过阶段门；产品阶段读 https://github.com/donglingjiu/product-expert-team ，前端阶段读 https://github.com/donglingjiu/frontend-builder ，全栈阶段读 https://github.com/donglingjiu/AutoDev ，需要哪个现读哪个。回复：web-delivery-director 已就绪。
 
 ## 版权与使用许可
 
