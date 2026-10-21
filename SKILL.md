@@ -13,6 +13,7 @@ description: 端到端网站交付总编排。何时使用：要求"做一个网
 |---|---|
 | 产品技能库 | https://github.com/donglingjiu/product-expert-team （skills/<名称>/SKILL.md） |
 | 前端技能 | https://github.com/donglingjiu/frontend-builder |
+| 全栈开发流程库 | https://github.com/donglingjiu/autodev-generic （SKILL.md、templates/、references/coding-standards/） |
 | 本库指南 | references/ 下 ui-ux-brief.md、backend-guide.md、qa-checklist.md、deploy-options.md |
 
 ## 调度表
@@ -22,9 +23,9 @@ description: 端到端网站交付总编排。何时使用：要求"做一个网
 | 1 需求澄清 | 目标用户、核心功能、范围、上线标准、静态还是全栈 | 直接追问，产出《需求简报》 |
 | 2 产品定义 | 用户故事、优先级、页面清单 | 产品库：create-prd、user-stories、prioritization-frameworks |
 | 3 设计 | 站点地图、线框、设计令牌、组件清单 | references/ui-ux-brief.md |
-| 4 前端实现 | 页面/组件/响应式/审美方向 | frontend-builder 整包按其流程执行 |
-| 5 后端实现 | API、数据模型、鉴权（仅全栈） | references/backend-guide.md |
-| 6 测试验收 | 功能/响应式/可访问性/性能 | references/qa-checklist.md |
+| 4 前端实现 | 页面/组件/响应式/审美方向 | frontend-builder 整包按其流程执行；TS/Vue 规范可读 autodev 的 coding-standards |
+| 5 后端实现 | API、数据模型、鉴权（仅全栈） | autodev-generic 三阶段流程 + references/backend-guide.md + 其 coding-standards |
+| 6 测试验收 | 功能/响应式/可访问性/性能 | references/qa-checklist.md；命令级验证（测试+lint 全绿）沿用 autodev 标准 |
 | 7 部署交付 | 构建、托管、访问地址 | references/deploy-options.md |
 | 8 复盘迭代 | 指标埋点、反馈收集、迭代清单 | 产品库：metrics-dashboard、analyze-feature-requests |
 
